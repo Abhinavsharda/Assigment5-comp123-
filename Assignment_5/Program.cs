@@ -150,9 +150,9 @@ namespace Assignment5
         public static void Exit()
         {
             Console.WriteLine();
-            Console.WriteLine("|<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>|");
+            Console.WriteLine("|<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>|");
             Console.WriteLine("|----> |Press any key to exit|");
-            Console.WriteLine("|<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>|");
+            Console.WriteLine("|<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>|");
             Console.ReadKey();
             Console.Clear();
         }
