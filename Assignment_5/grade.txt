@@ -1,0 +1,3 @@
+Abhinav,Sharda,7007,Methodology,A+
+Iqbal,gill,7005,Programming,A+
+Inderjeet,Singh,7009,Database,
